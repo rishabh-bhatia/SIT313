@@ -1,0 +1,31 @@
+﻿<Properties StartupConfiguration="{30E933BD-BE32-4365-B66A-6F501C3EB514}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="MainActivity.cs">
+    <Files>
+      <File FileName="MainActivity.cs" Line="38" Column="4" />
+      <File FileName="Resources/layout/activity_main.xml" Line="7" Column="39" />
+      <File FileName="Activity2.cs" Line="27" Column="1" />
+      <File FileName="Resources/layout/Activity2.axml" Line="14" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="HelloAndroid" expanded="True">
+            <Node name="HelloAndroid" expanded="True">
+              <Node name="Resources" expanded="True">
+                <Node name="layout" expanded="True" />
+              </Node>
+              <Node name="MainActivity.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.HelloAndroid AndroidDesignerPreferredTheme="Theme.MaterialComponents.NoActionBar" AndroidDesignerPreferredDevice="pixel_2" PreferredExecutionTarget="Android.Android_Accelerated_Oreo" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
