@@ -1,9 +1,9 @@
 ﻿<Properties StartupConfiguration="{75AEE65C-C527-404D-9084-46010637450A}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="ViewAllActivity.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="MainActivity.cs">
     <Files>
-      <File FileName="MainActivity.cs" Line="1" Column="1" />
+      <File FileName="MainActivity.cs" Line="35" Column="74" />
       <File FileName="Resources/layout/activity_main.xml" Line="15" Column="1" />
-      <File FileName="ViewAllActivity.cs" Line="1" Column="1" />
+      <File FileName="ViewAllActivity.cs" Line="6" Column="18" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -13,7 +13,7 @@
               <Node name="Resources" expanded="True">
                 <Node name="layout" expanded="True" />
               </Node>
-              <Node name="ViewAllActivity.cs" selected="True" />
+              <Node name="MainActivity.cs" selected="True" />
             </Node>
           </Node>
         </State>
@@ -23,7 +23,7 @@
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.ItemProperties.Week2.3 AndroidDesignerPreferredTheme="AppTheme" AndroidDesignerPreferredDevice="Nexus 4" FirstBuild="True" PreferredExecutionTarget="Android.Android_Accelerated_Oreo" />
+  <MonoDevelop.Ide.ItemProperties.Week2.3 AndroidDesignerPreferredTheme="AppTheme" AndroidDesignerPreferredDevice="Nexus 4" PreferredExecutionTarget="Android.Android_Accelerated_Oreo" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
