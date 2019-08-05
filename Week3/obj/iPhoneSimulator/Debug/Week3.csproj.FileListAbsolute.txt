@@ -1,0 +1,16 @@
+/Users/rishabh/Desktop/GitHub/SIT313/Week3/bin/iPhoneSimulator/Debug/Week3.exe
+/Users/rishabh/Desktop/GitHub/SIT313/Week3/bin/iPhoneSimulator/Debug/Week3.pdb
+/Users/rishabh/Desktop/GitHub/SIT313/Week3/bin/iPhoneSimulator/Debug/Xamarin.Essentials.dll
+/Users/rishabh/Desktop/GitHub/SIT313/Week3/bin/iPhoneSimulator/Debug/Xamarin.Essentials.pdb
+/Users/rishabh/Desktop/GitHub/SIT313/Week3/obj/iPhoneSimulator/Debug/Week3.csprojAssemblyReference.cache
+/Users/rishabh/Desktop/GitHub/SIT313/Week3/obj/iPhoneSimulator/Debug/Week3.csproj.CoreCompileInputs.cache
+/Users/rishabh/Desktop/GitHub/SIT313/Week3/obj/iPhoneSimulator/Debug/Week3.csproj.CopyComplete
+/Users/rishabh/Desktop/GitHub/SIT313/Week3/obj/iPhoneSimulator/Debug/Week3.exe
+/Users/rishabh/Desktop/GitHub/SIT313/Week3/obj/iPhoneSimulator/Debug/Week3.pdb
+/Users/rishabh/Desktop/GitHub/SIT313/Week3/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.4/ibtool/_BundleResourceWithLogicalName.items
+/Users/rishabh/Desktop/GitHub/SIT313/Week3/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.4/actool/_PartialAppManifest.items
+/Users/rishabh/Desktop/GitHub/SIT313/Week3/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.4/actool/_BundleResourceWithLogicalName.items
+/Users/rishabh/Desktop/GitHub/SIT313/Week3/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.4/coremlc/_PartialAppManifest.items
+/Users/rishabh/Desktop/GitHub/SIT313/Week3/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.4/coremlc/_BundleResourceWithLogicalName.items
+/Users/rishabh/Desktop/GitHub/SIT313/Week3/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.4/optimized/Drawable/image1.png
+/Users/rishabh/Desktop/GitHub/SIT313/Week3/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.4/optimized/

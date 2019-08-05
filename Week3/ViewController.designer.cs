@@ -11,8 +11,46 @@ using UIKit;
 
 namespace Week3
 {
-    [Register("ViewController")]
+    [Register ("ViewController")]
     partial class ViewController
     {
+        [Outlet]
+        [GeneratedCode ("iOS Designer", "1.0")]
+        UIKit.UITextField idText { get; set; }
+
+        [Outlet]
+        [GeneratedCode ("iOS Designer", "1.0")]
+        UIKit.UITextField nameText { get; set; }
+
+        [Outlet]
+        [GeneratedCode ("iOS Designer", "1.0")]
+        UIKit.UIButton saveButton { get; set; }
+
+        [Outlet]
+        [GeneratedCode ("iOS Designer", "1.0")]
+        UIKit.UIButton showAllButton { get; set; }
+
+        void ReleaseDesignerOutlets ()
+        {
+            if (idText != null) {
+                idText.Dispose ();
+                idText = null;
+            }
+
+            if (nameText != null) {
+                nameText.Dispose ();
+                nameText = null;
+            }
+
+            if (saveButton != null) {
+                saveButton.Dispose ();
+                saveButton = null;
+            }
+
+            if (showAllButton != null) {
+                showAllButton.Dispose ();
+                showAllButton = null;
+            }
+        }
     }
 }
