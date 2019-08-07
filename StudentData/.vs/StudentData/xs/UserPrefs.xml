@@ -1,4 +1,4 @@
-﻿<Properties StartupConfiguration="{62E8AA21-AB89-44BD-8BE3-A2AFBB421C05}|Default">
+﻿<Properties StartupConfiguration="{AC197ED3-3BE6-48CA-BB9F-D0D2D1D2B609}|Default">
   <MonoDevelop.Ide.Workbench ActiveDocument="StudentData/ShowAllInformation.xaml.cs">
     <Files>
       <File FileName="StudentData/MainPage.xaml.cs" Line="49" Column="1" />
@@ -27,11 +27,10 @@
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.ItemProperties.StudentData FirstBuild="True" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MonoDevelop.Ide.ItemProperties.StudentData.Android AndroidDesignerPreferredTheme="Theme.AppCompat.Light.NoActionBar" FirstBuild="True" PreferredExecutionTarget="Android.Android_Accelerated_Oreo" />
+  <MonoDevelop.Ide.ItemProperties.StudentData.Android AndroidDesignerPreferredTheme="Theme.AppCompat.Light.NoActionBar" PreferredExecutionTarget="Android.Android_Accelerated_Oreo" />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.ItemProperties.StudentData.iOS FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.StudentData.iOS FirstBuild="True" PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.54656C4C-313F-4A10-8FB8-16974EEB0345" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
