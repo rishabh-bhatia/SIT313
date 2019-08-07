@@ -2,13 +2,13 @@
   <MonoDevelop.Ide.Workbench ActiveDocument="StudentData/ShowAllInformation.xaml.cs">
     <Files>
       <File FileName="StudentData/MainPage.xaml.cs" Line="49" Column="1" />
-      <File FileName="StudentData/MainPage.xaml" Line="13" Column="5" />
+      <File FileName="StudentData/MainPage.xaml" Line="11" Column="102" />
       <File FileName="StudentData/StudentInfo.cs" Line="7" Column="9" />
       <File FileName="StudentData/App.xaml.cs" Line="4" Column="17" />
       <File FileName="StudentData/EnterInformation.xaml" Line="31" Column="106" />
-      <File FileName="StudentData/EnterInformation.xaml.cs" Line="71" Column="1" />
-      <File FileName="StudentData/ShowAllInformation.xaml" Line="1" Column="1" />
-      <File FileName="StudentData/ShowAllInformation.xaml.cs" Line="1" Column="1" />
+      <File FileName="StudentData/EnterInformation.xaml.cs" Line="59" Column="13" />
+      <File FileName="StudentData/ShowAllInformation.xaml" Line="15" Column="5" />
+      <File FileName="StudentData/ShowAllInformation.xaml.cs" Line="38" Column="17" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -18,10 +18,9 @@
               <Node name="App.xaml" expanded="True" />
               <Node name="EnterInformation.xaml" expanded="True" />
               <Node name="MainPage.xaml" expanded="True" />
-              <Node name="ShowAllInformation.xaml" expanded="True">
-                <Node name="ShowAllInformation.xaml.cs" selected="True" />
-              </Node>
+              <Node name="ShowAllInformation.xaml" expanded="True" />
             </Node>
+            <Node name="StudentData.iOS" selected="True" />
           </Node>
         </State>
       </Pad>
@@ -30,7 +29,7 @@
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.ItemProperties.StudentData.Android AndroidDesignerPreferredTheme="Theme.AppCompat.Light.NoActionBar" PreferredExecutionTarget="Android.Android_Accelerated_Oreo" />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.ItemProperties.StudentData.iOS FirstBuild="True" PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.54656C4C-313F-4A10-8FB8-16974EEB0345" />
+  <MonoDevelop.Ide.ItemProperties.StudentData.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.0F0F6B80-C852-412F-B3B9-ECD85C957D2C" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
