@@ -4,13 +4,13 @@
              xmlns:d="http://xamarin.com/schemas/2014/forms/design"
              xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
              mc:Ignorable="d"
-             x:Class="StudentData.MainPage">
-
+             x:Class="StudentData.MainPage" Title = "Student Database">
     <StackLayout>
         <!-- Place new controls here -->
-        <Label Text="Welcome to Xamarin.Forms!" 
-           HorizontalOptions="Center"
-           VerticalOptions="CenterAndExpand" />
+        <Button Text="Enter A Student's Information" HorizontalOptions="Center" VerticalOptions="Start" Clicked="btnEnterClicked"/>
+        <Button Text="View All Students Information" HorizontalOptions="Center" VerticalOptions="Start" Clicked="btnShowAllClicked"/>
+
     </StackLayout>
+
 
 </ContentPage>

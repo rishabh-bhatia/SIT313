@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<ContentPage
+    xmlns="http://xamarin.com/schemas/2014/forms"
+    xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+    x:Class="StudentData.EnterInformation" Title="New/Edit Info">
+
+    <ContentPage.Content>
+        <StackLayout Orientation="Vertical">
+
+<StackLayout Orientation="Vertical">
+
+<Label Text="Enter the following Information: " /> <Editor Placeholder=" Enter Student ID" Text="{Binding ID}"/>
+
+<Editor Placeholder=" Enter Marks for SIT313" Text=" {Binding marksIn313}"/>
+
+<Editor Placeholder=" Enter Marks for SIT314" Text=" {Binding marksIn314}"/>
+<Editor Placeholder=" Enter Marks for SIT446" Text=" {Binding marksIn446}"/>
+ 
+</StackLayout>
+
+<Grid>
+
+<Grid.ColumnDefinitions>
+
+<ColumnDefinition Width="*" />
+
+<ColumnDefinition Width="*" />
+
+</Grid.ColumnDefinitions>
+
+<Button Text="Save" Clicked="OnSaveButtonClicked" /> <Button Grid.Column="1" Text="Delete" Clicked="OnDeleteButtonClicked"/>
+
+</Grid>
+
+</StackLayout>
+
+    </ContentPage.Content>
+</ContentPage>

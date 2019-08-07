@@ -1,0 +1,14 @@
+/Users/rishabh/Desktop/GitHub/SIT313/StudentData/StudentData/obj/Debug/netstandard2.0/StudentData.csprojAssemblyReference.cache
+/Users/rishabh/Desktop/GitHub/SIT313/StudentData/StudentData/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/rishabh/Desktop/GitHub/SIT313/StudentData/StudentData/obj/Debug/netstandard2.0/EnterInformation.xaml.g.cs
+/Users/rishabh/Desktop/GitHub/SIT313/StudentData/StudentData/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+/Users/rishabh/Desktop/GitHub/SIT313/StudentData/StudentData/obj/Debug/netstandard2.0/ShowAllInformation.xaml.g.cs
+/Users/rishabh/Desktop/GitHub/SIT313/StudentData/StudentData/obj/Debug/netstandard2.0/StudentData.csproj.CoreCompileInputs.cache
+/Users/rishabh/Desktop/GitHub/SIT313/StudentData/StudentData/obj/Debug/netstandard2.0/StudentData.AssemblyInfoInputs.cache
+/Users/rishabh/Desktop/GitHub/SIT313/StudentData/StudentData/obj/Debug/netstandard2.0/StudentData.AssemblyInfo.cs
+/Users/rishabh/Desktop/GitHub/SIT313/StudentData/StudentData/obj/Debug/netstandard2.0/StudentData.dll
+/Users/rishabh/Desktop/GitHub/SIT313/StudentData/StudentData/obj/Debug/netstandard2.0/StudentData.pdb
+/Users/rishabh/Desktop/GitHub/SIT313/StudentData/StudentData/bin/Debug/netstandard2.0/StudentData.deps.json
+/Users/rishabh/Desktop/GitHub/SIT313/StudentData/StudentData/bin/Debug/netstandard2.0/StudentData.dll
+/Users/rishabh/Desktop/GitHub/SIT313/StudentData/StudentData/bin/Debug/netstandard2.0/StudentData.pdb
+/Users/rishabh/Desktop/GitHub/SIT313/StudentData/StudentData/obj/Debug/netstandard2.0/XamlC.stamp

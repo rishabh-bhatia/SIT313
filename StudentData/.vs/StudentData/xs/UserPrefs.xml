@@ -1,15 +1,26 @@
 ﻿<Properties StartupConfiguration="{62E8AA21-AB89-44BD-8BE3-A2AFBB421C05}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="StudentData/MainPage.xaml">
+  <MonoDevelop.Ide.Workbench ActiveDocument="StudentData/ShowAllInformation.xaml.cs">
     <Files>
-      <File FileName="StudentData/MainPage.xaml.cs" Line="1" Column="1" />
-      <File FileName="StudentData/MainPage.xaml" Line="1" Column="1" />
+      <File FileName="StudentData/MainPage.xaml.cs" Line="49" Column="1" />
+      <File FileName="StudentData/MainPage.xaml" Line="13" Column="5" />
+      <File FileName="StudentData/StudentInfo.cs" Line="7" Column="9" />
+      <File FileName="StudentData/App.xaml.cs" Line="4" Column="17" />
+      <File FileName="StudentData/EnterInformation.xaml" Line="31" Column="106" />
+      <File FileName="StudentData/EnterInformation.xaml.cs" Line="71" Column="1" />
+      <File FileName="StudentData/ShowAllInformation.xaml" Line="1" Column="1" />
+      <File FileName="StudentData/ShowAllInformation.xaml.cs" Line="1" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="StudentData" expanded="True">
             <Node name="StudentData" expanded="True">
-              <Node name="MainPage.xaml" selected="True" />
+              <Node name="App.xaml" expanded="True" />
+              <Node name="EnterInformation.xaml" expanded="True" />
+              <Node name="MainPage.xaml" expanded="True" />
+              <Node name="ShowAllInformation.xaml" expanded="True">
+                <Node name="ShowAllInformation.xaml.cs" selected="True" />
+              </Node>
             </Node>
           </Node>
         </State>
@@ -18,7 +29,7 @@
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.ItemProperties.StudentData FirstBuild="True" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MonoDevelop.Ide.ItemProperties.StudentData.Android FirstBuild="True" PreferredExecutionTarget="Android.Android_Accelerated_Oreo" />
+  <MonoDevelop.Ide.ItemProperties.StudentData.Android AndroidDesignerPreferredTheme="Theme.AppCompat.Light.NoActionBar" FirstBuild="True" PreferredExecutionTarget="Android.Android_Accelerated_Oreo" />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.ItemProperties.StudentData.iOS FirstBuild="True" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
