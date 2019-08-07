@@ -1,0 +1,11 @@
+/Users/rishabh/Desktop/GitHub/SIT313/Lab4_1/Lab4_1/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/rishabh/Desktop/GitHub/SIT313/Lab4_1/Lab4_1/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+/Users/rishabh/Desktop/GitHub/SIT313/Lab4_1/Lab4_1/obj/Debug/netstandard2.0/Lab4_1.csproj.CoreCompileInputs.cache
+/Users/rishabh/Desktop/GitHub/SIT313/Lab4_1/Lab4_1/obj/Debug/netstandard2.0/Lab4_1.AssemblyInfoInputs.cache
+/Users/rishabh/Desktop/GitHub/SIT313/Lab4_1/Lab4_1/obj/Debug/netstandard2.0/Lab4_1.AssemblyInfo.cs
+/Users/rishabh/Desktop/GitHub/SIT313/Lab4_1/Lab4_1/obj/Debug/netstandard2.0/Lab4_1.dll
+/Users/rishabh/Desktop/GitHub/SIT313/Lab4_1/Lab4_1/obj/Debug/netstandard2.0/Lab4_1.pdb
+/Users/rishabh/Desktop/GitHub/SIT313/Lab4_1/Lab4_1/bin/Debug/netstandard2.0/Lab4_1.deps.json
+/Users/rishabh/Desktop/GitHub/SIT313/Lab4_1/Lab4_1/bin/Debug/netstandard2.0/Lab4_1.dll
+/Users/rishabh/Desktop/GitHub/SIT313/Lab4_1/Lab4_1/bin/Debug/netstandard2.0/Lab4_1.pdb
+/Users/rishabh/Desktop/GitHub/SIT313/Lab4_1/Lab4_1/obj/Debug/netstandard2.0/XamlC.stamp
