@@ -1,15 +1,17 @@
 ﻿<Properties StartupConfiguration="{75AEE65C-C527-404D-9084-46010637450A}|Default">
   <MonoDevelop.Ide.Workbench ActiveDocument="MainActivity.cs">
     <Files>
-      <File FileName="MainActivity.cs" Line="35" Column="74" />
+      <File FileName="MainActivity.cs" Line="52" Column="21" />
       <File FileName="Resources/layout/activity_main.xml" Line="15" Column="1" />
-      <File FileName="ViewAllActivity.cs" Line="6" Column="18" />
+      <File FileName="ViewAllActivity.cs" Line="17" Column="68" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="Week2.3" expanded="True">
             <Node name="Week2.3" expanded="True">
+              <Node name="Assets" expanded="True" />
+              <Node name="Properties" expanded="True" />
               <Node name="Resources" expanded="True">
                 <Node name="layout" expanded="True" />
               </Node>
@@ -17,9 +19,6 @@
             </Node>
           </Node>
         </State>
-      </Pad>
-      <Pad Id="MonoDevelop.Debugger.WatchPad">
-        <State />
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>

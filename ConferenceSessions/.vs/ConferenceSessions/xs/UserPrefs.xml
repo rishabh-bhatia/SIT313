@@ -1,0 +1,46 @@
+﻿<Properties StartupConfiguration="{EF38D80E-115F-4A51-B93E-65F9CC22CE74}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="ConferenceSessions/MainPage.xaml.cs">
+    <Files>
+      <File FileName="ConferenceSessions/MainPage.xaml.cs" Line="1" Column="1" />
+      <File FileName="ConferenceSessions/MainPage.xaml" Line="1" Column="1" />
+      <File FileName="ConferenceSessions/Model/Session.cs" Line="10" Column="1" />
+      <File FileName="ConferenceSessions/Model/SessionData.cs" Line="26" Column="1" />
+      <File FileName="ConferenceSessions/ViewModel/SessionListViewModel.cs" Line="46" Column="1" />
+      <File FileName="ConferenceSessions/ViewModel/SessionDetailsViewModel.cs" Line="40" Column="1" />
+      <File FileName="ConferenceSessions/View/SessionListPage.xaml" Line="29" Column="1" />
+      <File FileName="ConferenceSessions/View/SessionListPage.xaml.cs" Line="15" Column="1" />
+      <File FileName="ConferenceSessions/View/SessionDetailsPage.xaml" Line="17" Column="1" />
+      <File FileName="ConferenceSessions/View/SessionDetailsPage.xaml.cs" Line="26" Column="1" />
+      <File FileName="ConferenceSessions/App.xaml" Line="1" Column="1" />
+      <File FileName="ConferenceSessions/App.xaml.cs" Line="13" Column="90" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ConferenceSessions" expanded="True">
+            <Node name="ConferenceSessions" expanded="True">
+              <Node name="Model" expanded="True" />
+              <Node name="View" expanded="True">
+                <Node name="SessionDetailsPage.xaml" expanded="True" />
+                <Node name="SessionListPage.xaml" expanded="True" />
+              </Node>
+              <Node name="ViewModel" expanded="True" />
+              <Node name="App.xaml" expanded="True" />
+              <Node name="MainPage.xaml" expanded="True">
+                <Node name="MainPage.xaml.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.ConferenceSessions.Android AndroidDesignerPreferredTheme="Theme.AppCompat.Light.NoActionBar" PreferredExecutionTarget="Android.Android_Accelerated_Oreo" />
+  <MonoDevelop.Ide.ItemProperties.ConferenceSessions.iOS FirstBuild="True" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

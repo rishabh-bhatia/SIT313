@@ -1,14 +1,7 @@
 ﻿<Properties StartupConfiguration="{AC197ED3-3BE6-48CA-BB9F-D0D2D1D2B609}|Default">
   <MonoDevelop.Ide.Workbench ActiveDocument="StudentData/ShowAllInformation.xaml.cs">
     <Files>
-      <File FileName="StudentData/MainPage.xaml.cs" Line="49" Column="1" />
-      <File FileName="StudentData/MainPage.xaml" Line="11" Column="102" />
-      <File FileName="StudentData/StudentInfo.cs" Line="7" Column="9" />
-      <File FileName="StudentData/App.xaml.cs" Line="4" Column="17" />
-      <File FileName="StudentData/EnterInformation.xaml" Line="31" Column="106" />
-      <File FileName="StudentData/EnterInformation.xaml.cs" Line="59" Column="13" />
-      <File FileName="StudentData/ShowAllInformation.xaml" Line="15" Column="5" />
-      <File FileName="StudentData/ShowAllInformation.xaml.cs" Line="38" Column="17" />
+      <File FileName="StudentData/ShowAllInformation.xaml.cs" Line="43" Column="21" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -18,11 +11,16 @@
               <Node name="App.xaml" expanded="True" />
               <Node name="EnterInformation.xaml" expanded="True" />
               <Node name="MainPage.xaml" expanded="True" />
-              <Node name="ShowAllInformation.xaml" expanded="True" />
+              <Node name="ShowAllInformation.xaml" expanded="True">
+                <Node name="ShowAllInformation.xaml.cs" selected="True" />
+              </Node>
             </Node>
-            <Node name="StudentData.iOS" selected="True" />
+            <Node name="StudentData.Android" expanded="True" />
           </Node>
         </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>

@@ -9,7 +9,9 @@
 
 <StackLayout Orientation="Vertical">
 
-<Label Text="Enter the following Information: " /> <Editor Placeholder=" Enter Student ID" Text="{Binding ID}"/>
+<Label Text="Enter the following Information: " />
+
+<Editor Placeholder=" Enter Student ID" Text="{Binding ID}"/>
 
 <Editor Placeholder=" Enter Marks for SIT313" Text=" {Binding marksIn313}"/>
 

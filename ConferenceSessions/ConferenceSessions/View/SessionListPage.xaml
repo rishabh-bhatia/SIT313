@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms" 
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" 
+             x:Class="ConferenceSessions.View.SessionListPage"
+             Title="Conference Session List" BackgroundColor="BlueViolet">
+    
+    
+    <ContentPage.Content>
+        <ListView ItemsSource="{Binding Sessions}" SelectedItem="{Binding SessionSelected}" RowHeight="130">
+            <ListView.ItemTemplate>
+                <DataTemplate>
+                    <ViewCell>
+                        <ContentView>
+                            <StackLayout Orientation="Vertical" BackgroundColor="SeaGreen" Padding="10,2,0,0">
+                                <StackLayout Padding="8,5,0,0">
+                                    <Label Text="{Binding SessionTitle}" TextColor="Yellow" FontSize="22" VerticalOptions="StartAndExpand"/>
+                                    <Label Text="{Binding SessionSpeaker, StringFormat = 'Speaker Name: {0:N}'}" FontSize="16"/>
+                                    <Label Text="{Binding IsTechnical, StringFormat = 'TechnicalTopic: {0:N}'}" FontSize="16"/>
+                                    <Label Text="{Binding SessionDescription, StringFormat = 'The content is about: {0:N}'}" FontSize="16"/>                                    
+                                </StackLayout>
+                            </StackLayout>
+                        </ContentView>
+                    </ViewCell>
+                </DataTemplate>
+            </ListView.ItemTemplate>            
+        </ListView>    
+    </ContentPage.Content>
+</ContentPage>
