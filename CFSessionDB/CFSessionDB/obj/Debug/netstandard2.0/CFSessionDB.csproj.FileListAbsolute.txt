@@ -1,0 +1,13 @@
+/Users/rishabh/Desktop/GitHub/SIT313/CFSessionDB/CFSessionDB/obj/Debug/netstandard2.0/CFSessionDB.csprojAssemblyReference.cache
+/Users/rishabh/Desktop/GitHub/SIT313/CFSessionDB/CFSessionDB/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/rishabh/Desktop/GitHub/SIT313/CFSessionDB/CFSessionDB/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+/Users/rishabh/Desktop/GitHub/SIT313/CFSessionDB/CFSessionDB/obj/Debug/netstandard2.0/View/SessionListPage.xaml.g.cs
+/Users/rishabh/Desktop/GitHub/SIT313/CFSessionDB/CFSessionDB/obj/Debug/netstandard2.0/CFSessionDB.csproj.CoreCompileInputs.cache
+/Users/rishabh/Desktop/GitHub/SIT313/CFSessionDB/CFSessionDB/obj/Debug/netstandard2.0/CFSessionDB.AssemblyInfoInputs.cache
+/Users/rishabh/Desktop/GitHub/SIT313/CFSessionDB/CFSessionDB/obj/Debug/netstandard2.0/CFSessionDB.AssemblyInfo.cs
+/Users/rishabh/Desktop/GitHub/SIT313/CFSessionDB/CFSessionDB/obj/Debug/netstandard2.0/CFSessionDB.dll
+/Users/rishabh/Desktop/GitHub/SIT313/CFSessionDB/CFSessionDB/obj/Debug/netstandard2.0/CFSessionDB.pdb
+/Users/rishabh/Desktop/GitHub/SIT313/CFSessionDB/CFSessionDB/bin/Debug/netstandard2.0/CFSessionDB.deps.json
+/Users/rishabh/Desktop/GitHub/SIT313/CFSessionDB/CFSessionDB/bin/Debug/netstandard2.0/CFSessionDB.dll
+/Users/rishabh/Desktop/GitHub/SIT313/CFSessionDB/CFSessionDB/bin/Debug/netstandard2.0/CFSessionDB.pdb
+/Users/rishabh/Desktop/GitHub/SIT313/CFSessionDB/CFSessionDB/obj/Debug/netstandard2.0/XamlC.stamp

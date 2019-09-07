@@ -1,0 +1,41 @@
+﻿<Properties StartupConfiguration="{76F64855-03F8-4EB9-8CE9-2EF5C9777013}|Default">
+  <MonoDevelop.Ide.ItemProperties.CFSessionDB.iOS FirstBuild="True" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="CFSessionDB/View/SessionListPage.xaml">
+    <Files>
+      <File FileName="CFSessionDB/MainPage.xaml.cs" Line="1" Column="1" />
+      <File FileName="CFSessionDB/MainPage.xaml" Line="1" Column="1" />
+      <File FileName="CFSessionDB/Model/Session.cs" Line="22" Column="1" />
+      <File FileName="CFSessionDB/View/SessionListPage.xaml" Line="11" Column="23" />
+      <File FileName="CFSessionDB/View/SessionListPage.xaml.cs" Line="1" Column="1" />
+      <File FileName="CFSessionDB/ViewModel/SessionListViewModel.cs" Line="43" Column="1" />
+      <File FileName="CFSessionDB/App.xaml" Line="1" Column="1" />
+      <File FileName="CFSessionDB/App.xaml.cs" Line="32" Column="1" />
+      <File FileName="CFSessionDB/Data/Database.cs" Line="37" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="CFSessionDB" expanded="True">
+            <Node name="CFSessionDB" expanded="True">
+              <Node name="Data" expanded="True" />
+              <Node name="Model" expanded="True" />
+              <Node name="View" expanded="True">
+                <Node name="SessionListPage.xaml" expanded="True" selected="True" />
+              </Node>
+              <Node name="ViewModel" expanded="True" />
+              <Node name="App.xaml" expanded="True" />
+              <Node name="MainPage.xaml" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.CFSessionDB.Android AndroidDesignerPreferredTheme="Theme.AppCompat.Light.NoActionBar" PreferredExecutionTarget="Android.Android_Accelerated_Oreo" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
