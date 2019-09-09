@@ -1,0 +1,12 @@
+/Users/rishabh/Desktop/GitHub/SIT313/Calculator/Calculator/bin/Debug/netstandard2.0/Calculator.deps.json
+/Users/rishabh/Desktop/GitHub/SIT313/Calculator/Calculator/bin/Debug/netstandard2.0/Calculator.dll
+/Users/rishabh/Desktop/GitHub/SIT313/Calculator/Calculator/bin/Debug/netstandard2.0/Calculator.pdb
+/Users/rishabh/Desktop/GitHub/SIT313/Calculator/Calculator/obj/Debug/netstandard2.0/Calculator.csprojAssemblyReference.cache
+/Users/rishabh/Desktop/GitHub/SIT313/Calculator/Calculator/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/rishabh/Desktop/GitHub/SIT313/Calculator/Calculator/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+/Users/rishabh/Desktop/GitHub/SIT313/Calculator/Calculator/obj/Debug/netstandard2.0/Calculator.csproj.CoreCompileInputs.cache
+/Users/rishabh/Desktop/GitHub/SIT313/Calculator/Calculator/obj/Debug/netstandard2.0/Calculator.AssemblyInfoInputs.cache
+/Users/rishabh/Desktop/GitHub/SIT313/Calculator/Calculator/obj/Debug/netstandard2.0/Calculator.AssemblyInfo.cs
+/Users/rishabh/Desktop/GitHub/SIT313/Calculator/Calculator/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/rishabh/Desktop/GitHub/SIT313/Calculator/Calculator/obj/Debug/netstandard2.0/Calculator.dll
+/Users/rishabh/Desktop/GitHub/SIT313/Calculator/Calculator/obj/Debug/netstandard2.0/Calculator.pdb

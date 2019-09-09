@@ -1,0 +1,13 @@
+/Users/rishabh/Desktop/GitHub/SIT313/ConferenceSessionsClient/ConferenceSessionsClient/obj/Debug/netstandard2.0/ConferenceSessionsClient.csprojAssemblyReference.cache
+/Users/rishabh/Desktop/GitHub/SIT313/ConferenceSessionsClient/ConferenceSessionsClient/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/rishabh/Desktop/GitHub/SIT313/ConferenceSessionsClient/ConferenceSessionsClient/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+/Users/rishabh/Desktop/GitHub/SIT313/ConferenceSessionsClient/ConferenceSessionsClient/obj/Debug/netstandard2.0/View/SessionsPage.xaml.g.cs
+/Users/rishabh/Desktop/GitHub/SIT313/ConferenceSessionsClient/ConferenceSessionsClient/obj/Debug/netstandard2.0/ConferenceSessionsClient.csproj.CoreCompileInputs.cache
+/Users/rishabh/Desktop/GitHub/SIT313/ConferenceSessionsClient/ConferenceSessionsClient/obj/Debug/netstandard2.0/ConferenceSessionsClient.AssemblyInfoInputs.cache
+/Users/rishabh/Desktop/GitHub/SIT313/ConferenceSessionsClient/ConferenceSessionsClient/obj/Debug/netstandard2.0/ConferenceSessionsClient.AssemblyInfo.cs
+/Users/rishabh/Desktop/GitHub/SIT313/ConferenceSessionsClient/ConferenceSessionsClient/bin/Debug/netstandard2.0/ConferenceSessionsClient.deps.json
+/Users/rishabh/Desktop/GitHub/SIT313/ConferenceSessionsClient/ConferenceSessionsClient/bin/Debug/netstandard2.0/ConferenceSessionsClient.dll
+/Users/rishabh/Desktop/GitHub/SIT313/ConferenceSessionsClient/ConferenceSessionsClient/bin/Debug/netstandard2.0/ConferenceSessionsClient.pdb
+/Users/rishabh/Desktop/GitHub/SIT313/ConferenceSessionsClient/ConferenceSessionsClient/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/rishabh/Desktop/GitHub/SIT313/ConferenceSessionsClient/ConferenceSessionsClient/obj/Debug/netstandard2.0/ConferenceSessionsClient.dll
+/Users/rishabh/Desktop/GitHub/SIT313/ConferenceSessionsClient/ConferenceSessionsClient/obj/Debug/netstandard2.0/ConferenceSessionsClient.pdb

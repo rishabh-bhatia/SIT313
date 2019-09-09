@@ -1,0 +1,9 @@
+/Users/rishabh/Desktop/GitHub/SIT313/Calculator/Calculator.UITests/bin/Debug/Calculator.UITests.dll
+/Users/rishabh/Desktop/GitHub/SIT313/Calculator/Calculator.UITests/bin/Debug/Calculator.UITests.pdb
+/Users/rishabh/Desktop/GitHub/SIT313/Calculator/Calculator.UITests/bin/Debug/nunit.framework.dll
+/Users/rishabh/Desktop/GitHub/SIT313/Calculator/Calculator.UITests/bin/Debug/Xamarin.UITest.dll
+/Users/rishabh/Desktop/GitHub/SIT313/Calculator/Calculator.UITests/obj/Debug/Calculator.UITests.csprojAssemblyReference.cache
+/Users/rishabh/Desktop/GitHub/SIT313/Calculator/Calculator.UITests/obj/Debug/Calculator.UITests.csproj.CoreCompileInputs.cache
+/Users/rishabh/Desktop/GitHub/SIT313/Calculator/Calculator.UITests/obj/Debug/Calculator.UITests.csproj.CopyComplete
+/Users/rishabh/Desktop/GitHub/SIT313/Calculator/Calculator.UITests/obj/Debug/Calculator.UITests.dll
+/Users/rishabh/Desktop/GitHub/SIT313/Calculator/Calculator.UITests/obj/Debug/Calculator.UITests.pdb
