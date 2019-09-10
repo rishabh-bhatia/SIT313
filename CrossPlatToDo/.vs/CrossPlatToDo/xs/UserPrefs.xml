@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{1563A090-D41F-42CE-9B2A-4B1B7736647D}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="CrossPlatToDo/MainPage.xaml">
+    <Files>
+      <File FileName="CrossPlatToDo/MainPage.xaml.cs" Line="1" Column="1" />
+      <File FileName="CrossPlatToDo/MainPage.xaml" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="CrossPlatToDo" expanded="True">
+            <Node name="CrossPlatToDo" expanded="True">
+              <Node name="MainPage.xaml" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.CrossPlatToDo.iOS FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.CrossPlatToDo.Android FirstBuild="True" PreferredExecutionTarget="Android.Android_Accelerated_Oreo" />
+  <MonoDevelop.Ide.ItemProperties.CrossPlatToDo.UITests FirstBuild="True" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.CrossPlatToDo FirstBuild="True" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
