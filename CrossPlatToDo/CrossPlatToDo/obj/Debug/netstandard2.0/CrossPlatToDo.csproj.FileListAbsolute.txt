@@ -1,0 +1,13 @@
+/Users/rishabh/Desktop/GitHub/SIT313/CrossPlatToDo/CrossPlatToDo/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/rishabh/Desktop/GitHub/SIT313/CrossPlatToDo/CrossPlatToDo/obj/Debug/netstandard2.0/CrossPlatToDo.csproj.CoreCompileInputs.cache
+/Users/rishabh/Desktop/GitHub/SIT313/CrossPlatToDo/CrossPlatToDo/obj/Debug/netstandard2.0/CrossPlatToDo.AssemblyInfoInputs.cache
+/Users/rishabh/Desktop/GitHub/SIT313/CrossPlatToDo/CrossPlatToDo/obj/Debug/netstandard2.0/CrossPlatToDo.AssemblyInfo.cs
+/Users/rishabh/Desktop/GitHub/SIT313/CrossPlatToDo/CrossPlatToDo/obj/Debug/netstandard2.0/CrossPlatToDo.dll
+/Users/rishabh/Desktop/GitHub/SIT313/CrossPlatToDo/CrossPlatToDo/obj/Debug/netstandard2.0/CrossPlatToDo.pdb
+/Users/rishabh/Desktop/GitHub/SIT313/CrossPlatToDo/CrossPlatToDo/bin/Debug/netstandard2.0/CrossPlatToDo.deps.json
+/Users/rishabh/Desktop/GitHub/SIT313/CrossPlatToDo/CrossPlatToDo/bin/Debug/netstandard2.0/CrossPlatToDo.dll
+/Users/rishabh/Desktop/GitHub/SIT313/CrossPlatToDo/CrossPlatToDo/bin/Debug/netstandard2.0/CrossPlatToDo.pdb
+/Users/rishabh/Desktop/GitHub/SIT313/CrossPlatToDo/CrossPlatToDo/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/rishabh/Desktop/GitHub/SIT313/CrossPlatToDo/CrossPlatToDo/obj/Debug/netstandard2.0/CrossPlatToDo.csprojAssemblyReference.cache
+/Users/rishabh/Desktop/GitHub/SIT313/CrossPlatToDo/CrossPlatToDo/obj/Debug/netstandard2.0/View/MainPage.xaml.g.cs
+/Users/rishabh/Desktop/GitHub/SIT313/CrossPlatToDo/CrossPlatToDo/obj/Debug/netstandard2.0/View/ToDoElementView.xaml.g.cs
